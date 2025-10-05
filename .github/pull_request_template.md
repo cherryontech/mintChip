@@ -2,8 +2,7 @@
 
 * **Fix** 🐛: Correction of a bug or error.
 * **Feat** ✨: New feature or functionality.
-* **Refactor** 🔨: Code restructuring without changing external behavior.
-* **Perf** ⚡: Performance or rendering improvement.
+* **Perf** ⚡: Performance, testing or rendering improvement.
 * **Style** 🎨: Code formatting or aesthetic changes (CSS).
 * **Docs** 📚: Documentation only changes.
 
