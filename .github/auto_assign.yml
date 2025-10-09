@@ -1,0 +1,10 @@
+reviewers:
+  - magali-la
+  - nkabembo
+  - CMolinaBetancourt
+  
+addReviewers: true
+
+numberOfReviewers: 2
+
+addReviewersSkipAuthors: true
